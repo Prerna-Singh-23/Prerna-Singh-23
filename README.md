@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Prerna Singh
 - 👀 I’m interested in Programming
-- 🌱
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 How to reach me PrernaSingh on linkedIn.
 
